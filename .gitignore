@@ -1,0 +1,88 @@
+# Python & FastAPI
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Environments
+venv/
+.venv/
+env/
+ENV/
+.env
+
+# SQLite Databases & Local Storage
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite3
+data/*.db
+data/*.sqlite
+backend/data/*.db
+backend/refund_system.db
+backend/refund_verification.db
+backend/server.log
+backend/server_err.log
+
+# Uploaded Files (keep structures)
+storage/product_references/*
+!storage/product_references/.gitkeep
+storage/evidence/*
+!storage/evidence/.gitkeep
+storage/reports/*
+!storage/reports/.gitkeep
+backend/storage/product_references/*
+!backend/storage/product_references/.gitkeep
+backend/storage/evidence/*
+!backend/storage/evidence/.gitkeep
+backend/storage/reports/*
+!backend/storage/reports/.gitkeep
+
+# Pytest & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Flutter & Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+mobile/build/
+mobile/.dart_tool/
+mobile/.flutter-plugins
+mobile/.flutter-plugins-dependencies
+mobile/pubspec.lock
+
+# Android & iOS Builds
+*.apk
+*.aab
+*.app
+*.ipa
+mobile/*.apk
+
+# IDE & OS
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+*.iml
