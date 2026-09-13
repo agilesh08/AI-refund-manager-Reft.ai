@@ -4,7 +4,7 @@ Reft.AI is an intelligent, local AI-powered evidence verification platform desig
 
 ---
 
-## 🌟 Key Features & Architecture
+##  Key Features & Architecture
 
 ### 1. Fully Local AI Vision & Reasoning Pipeline
 - **Qwen2.5-VL 3B** (`qwen2.5vl:3b-q4_K_M`): Pre-computes merchant product reference images one-by-one and performs forensic visual inspection of customer evidence.
@@ -23,7 +23,7 @@ Reft.AI is an intelligent, local AI-powered evidence verification platform desig
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 ├── backend/                  # FastAPI Backend Application
@@ -48,7 +48,7 @@ Reft.AI is an intelligent, local AI-powered evidence verification platform desig
 
 ---
 
-## 🚀 Quick Start Guide
+##  Quick Start Guide
 
 ### Prerequisites
 1. **Python 3.10+**
