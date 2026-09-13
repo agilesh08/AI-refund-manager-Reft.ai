@@ -1,4 +1,4 @@
-# Reft.AI — Refund Evidence Verification System (Prototype only)
+# Reft.AI — Refund Evidence Verification System (Prototype only Still in development)
 
 Reft.AI is an intelligent, local AI-powered evidence verification platform designed to automate and assist merchants in evaluating customer refund claims. By fusing local Vision-Language Models (Qwen2.5-VL 3B) and Local Reasoning Models (Llama 3.2 1B) with deterministic business logic signals, Reft.AI provides objective, explainable, and non-blocking verification for e-commerce merchants.
 
