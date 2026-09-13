@@ -125,4 +125,4 @@ Reft.AI is an intelligent, local AI-powered evidence verification platform desig
 
 ## 🛡 License & Project Maintenance
 
-Developed for Reft.AI Refund Evidence Verification System. All rights reserved.
+Developed by Agilesh T , Concept or idea Is solenly drafted By Me 
